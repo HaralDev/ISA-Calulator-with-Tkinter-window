@@ -135,7 +135,5 @@ def close_window():
    
 Button (window, text="Exit", width=14,command=close_window) .grid(row=6, column=0, sticky=W)
 
-
+### Open window
 window.mainloop()
-
-
